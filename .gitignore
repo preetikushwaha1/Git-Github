@@ -2,4 +2,5 @@ error.log
 *.log
 dir/
 file1.css
+*.java
 
